@@ -98,7 +98,7 @@ export default function Page() {
 
         <section id="projects" className="section reveal">
           <div className="section-header">
-            <p className="eyebrow">Specialties</p>
+            <p className="eyebrow">Projects</p>
             <h2>Recent work that blends utility with character.</h2>
           </div>
           <div className="card-grid">
