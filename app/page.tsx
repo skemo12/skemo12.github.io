@@ -32,10 +32,9 @@ export default function Page() {
               not assembled.
             </h1>
             <p className="lede">
-              I'm Alex Darius Paunoiu, a full-stack builder, owner of DAP IT Solutions
-              SRL with a soft spot for storytelling, tactile UI, and shipping fast
-              without losing the details. This page is a simple, scrollable snapshot
-              of how I think, build, and collaborate.
+              I'm Alex Darius Paunoiu, a full-stack builder, CEO of DAP IT Solutions
+              SRL with a passion for creating performant, efficient, state of the art solutions.
+              This page is a simple, scrollable snapshot of how I think, build, and collaborate.
             </p>
             <div className="hero-actions">
               <a className="button" href="#projects">

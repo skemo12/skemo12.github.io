@@ -17,6 +17,7 @@
     "isolatedModules": true,
     "jsx": "react-jsx",
     "incremental": true,
+    "types": ["./types/css.d.ts"],
     "plugins": [
       {
         "name": "next"
