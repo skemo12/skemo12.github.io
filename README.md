@@ -28,14 +28,14 @@ The static site is generated into the `out/` folder.
 For a project site (not a user site), set `BASE_PATH` to your repo name when building.
 
 ```bash
-# example: repo is https://github.com/you/about-me
-BASE_PATH=/about-me npm run build
+# example: repo is https://github.com/you/dapit
+BASE_PATH=/dapit npm run build
 ```
 
 PowerShell:
 
 ```powershell
-$env:BASE_PATH = "/about-me"
+$env:BASE_PATH = "/dapit"
 npm run build
 ```
 
